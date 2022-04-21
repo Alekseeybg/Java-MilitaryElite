@@ -14,6 +14,7 @@ LeutenantGeneral 3 Joro Jorev 100 222 1
 End
 
 Output:
+
 Name: Pesho Peshev Id: 1 Salary: 22.22
 
 Name: Stamat Stamov Id: 13 Salary: 13.10
