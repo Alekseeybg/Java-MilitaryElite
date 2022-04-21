@@ -32,7 +32,7 @@ Commando: “Commando <id> <firstName> <lastName> <salary> <corps> <mission1Code
 Spy: “Spy <id> <firstName> <lastName> <codeNumber>”
 
 Define magic method __toString() in all classes to print detailed information about the objects.
-
+=======================================================================================================
 Example Input:
 
 Private 1 Pesho Peshev 22.22
@@ -44,7 +44,7 @@ Private 222 Toncho Tonchev 80.08
 LeutenantGeneral 3 Joro Jorev 100 222 1
 
 End
-
+=========================================================================================================
 Output:
 
 Name: Pesho Peshev Id: 1 Salary: 22.22
